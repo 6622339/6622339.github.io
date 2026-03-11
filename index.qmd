@@ -1,0 +1,38 @@
+---
+title: "李淑慧的个人主页"
+format: html
+---
+<!-- 首页头部横幅 -->
+<div style="background-color: #f8f9fa; padding: 40px; text-align: center; border-radius: 8px; margin-bottom: 30px;">
+  <h1 style="color: #2c3e50; margin-bottom: 10px;">欢迎来到我的个人网站</h1>
+  <p style="color: #6c757d; font-size: 18px;">专注于数据分析/编程学习 | 持续分享与成长</p>
+</div>
+
+## 🔍 关于我
+- **姓名**：李淑慧
+- **专业/方向**：环境工程
+- **学习目标**：掌握Quarto网站开发、Python/R编程、数据分析技能
+- **联系方式**：19883111048@163.com
+
+## 📚 我的技能
+| 技能类别       | 掌握程度 |
+|----------------|----------|
+| Python编程     | 基础     |
+| R语言          | 入门     |
+| Quarto网站开发 | 学习中   |
+| 数据分析       | 基础     |
+
+## 📝 近期计划
+1. 完成Quarto网站的GitHub Pages发布
+2. 学习更多网页美化技巧
+3. 补充网站的项目展示页面
+
+## 🔗 快速链接
+- [关于我](about.qmd)          # 关联about.qmd页面（确保该文件存在）
+- [GitHub仓库](https://github.com/你的用户名)  # 替换成你的GitHub地址
+- [Quarto官方文档](https://quarto.org/docs/)  # 学习参考链接
+
+<!-- 页脚 -->
+<div style="margin-top: 50px; padding: 20px; text-align: center; color: #6c757d; border-top: 1px solid #eee;">
+  © 2026 李淑慧 - 个人网站 | 基于Quarto构建
+</div>

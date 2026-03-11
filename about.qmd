@@ -1,0 +1,47 @@
+---
+title: "关于我"
+format: html
+---
+<!-- 页面头部 -->
+<div style="background-color: #e9ecef; padding: 30px; border-radius: 8px; margin-bottom: 30px;">
+  <h2 style="color: #343a40; margin: 0; text-align: center;">关于我 | About Me</h2>
+</div>
+
+## 📖 个人简介
+- **姓名**：李淑慧
+- **性别**：女
+- **年龄**：23
+- **学历/年级**：研究生一年级
+- **专业**：环境工程
+- **所在院校**：华中农业大学
+
+
+## 💻 技术栈
+### 编程语言
+- Python（基础）：掌握基本语法、Pandas/Numpy数据处理
+- R语言（入门）：基础数据可视化、统计分析
+- Markdown/HTML：能编写结构化文档和简单网页
+
+### 工具/框架
+- Quarto：能创建静态网站、渲染Markdown文档
+- Git/GitHub：基础代码管理、远程仓库操作
+- Excel/SPSS：基础数据清洗与分析
+
+## 🎯 学习目标
+1. 熟练掌握Quarto网站开发，能自定义样式和功能
+2. 提升Python数据分析能力，能独立完成小型分析项目
+3. 熟悉GitHub Pages部署流程，实现个人作品展示
+
+## 📱 联系方式
+- **邮箱**：19883111048@163.com
+- **GitHub**：https://github.com/6622339
+- **微信**：19883111048
+
+## 🎨 兴趣爱好
+- 编程学习：喜欢探索新的编程语言和工具
+- 数据可视化：热衷于用图表展示数据背后的规律
+
+<!-- 页脚（和首页风格统一） -->
+<div style="margin-top: 50px; padding: 20px; text-align: center; color: #6c757d; border-top: 1px solid #eee;">
+  © 2026 李淑慧 - 个人网站 | 基于Quarto构建
+</div>
