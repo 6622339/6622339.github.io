@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "李淑慧的个人主页",
+    "section": "",
+    "text": "专注于数据分析/编程学习 | 持续分享与成长"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "李淑慧的个人主页",
+    "section": "🔍 关于我",
+    "text": "🔍 关于我\n\n姓名：李淑慧\n专业/方向：环境工程\n学习目标：掌握Quarto网站开发、Python/R编程、数据分析技能\n联系方式：19883111048@163.com"
+  },
+  {
+    "objectID": "index.html#我的技能",
+    "href": "index.html#我的技能",
+    "title": "李淑慧的个人主页",
+    "section": "📚 我的技能",
+    "text": "📚 我的技能\n\n\n\n技能类别\n掌握程度\n\n\n\n\nPython编程\n基础\n\n\nR语言\n入门\n\n\nQuarto网站开发\n学习中\n\n\n数据分析\n基础"
+  },
+  {
+    "objectID": "index.html#近期计划",
+    "href": "index.html#近期计划",
+    "title": "李淑慧的个人主页",
+    "section": "📝 近期计划",
+    "text": "📝 近期计划\n\n完成Quarto网站的GitHub Pages发布\n学习更多网页美化技巧\n补充网站的项目展示页面"
+  },
+  {
+    "objectID": "index.html#快速链接",
+    "href": "index.html#快速链接",
+    "title": "李淑慧的个人主页",
+    "section": "🔗 快速链接",
+    "text": "🔗 快速链接\n\n关于我 # 关联about.qmd页面（确保该文件存在）\nGitHub仓库 # 替换成你的GitHub地址\nQuarto官方文档 # 学习参考链接\n\n\n\n© 2026 李淑慧 - 个人网站 | 基于Quarto构建"
+  },
+  {
+    "objectID": "about.html#个人简介",
+    "href": "about.html#个人简介",
+    "title": "关于我",
+    "section": "📖 个人简介",
+    "text": "📖 个人简介\n\n姓名：李淑慧\n性别：女\n年龄：23\n学历/年级：研究生一年级\n专业：环境工程\n所在院校：华中农业大学"
+  },
+  {
+    "objectID": "about.html#技术栈",
+    "href": "about.html#技术栈",
+    "title": "关于我",
+    "section": "💻 技术栈",
+    "text": "💻 技术栈\n\n编程语言\n\nPython（基础）：掌握基本语法、Pandas/Numpy数据处理\nR语言（入门）：基础数据可视化、统计分析\nMarkdown/HTML：能编写结构化文档和简单网页\n\n\n\n工具/框架\n\nQuarto：能创建静态网站、渲染Markdown文档\nGit/GitHub：基础代码管理、远程仓库操作\nExcel/SPSS：基础数据清洗与分析"
+  },
+  {
+    "objectID": "about.html#学习目标",
+    "href": "about.html#学习目标",
+    "title": "关于我",
+    "section": "🎯 学习目标",
+    "text": "🎯 学习目标\n\n熟练掌握Quarto网站开发，能自定义样式和功能\n提升Python数据分析能力，能独立完成小型分析项目\n熟悉GitHub Pages部署流程，实现个人作品展示"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "📱 联系方式",
+    "text": "📱 联系方式\n\n邮箱：19883111048@163.com\nGitHub：https://github.com/6622339\n微信：19883111048"
+  },
+  {
+    "objectID": "about.html#兴趣爱好",
+    "href": "about.html#兴趣爱好",
+    "title": "关于我",
+    "section": "🎨 兴趣爱好",
+    "text": "🎨 兴趣爱好\n\n编程学习：喜欢探索新的编程语言和工具\n数据可视化：热衷于用图表展示数据背后的规律\n\n\n\n© 2026 李淑慧 - 个人网站 | 基于Quarto构建"
+  }
+]
